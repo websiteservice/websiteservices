@@ -12,7 +12,7 @@ function App() {
 
   return (
     <>
-      <Router basename='/elisasnails'>
+      <Router basename='/websiteservices'>
       <Routes>
         <Route path="/" element={<Homepage />} />
         <Route path="/bookings" element={<Bookings />} />

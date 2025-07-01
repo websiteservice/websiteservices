@@ -12,12 +12,11 @@ function Contact() {
         <Title titleName="Contact" />
 
         <p className="contact-subtitle">
-          For bookings, availability, or questions, please get in touch via the details below.
+          If you'd like to get started with website services or if you have questions, please get in touch via the details below.
         </p>
 
         <div className="contact-details">
           <p><strong>Email:</strong> elisasbusinessemail@gmail.com</p>
-          {/* <p><strong>Phone:</strong> 021 </p> */}
           <p><strong>Instagram:</strong>
             <a 
               href="https://instagram.com/elisasnails" 
@@ -25,10 +24,9 @@ function Contact() {
               rel="noopener noreferrer"
               className="insta-link"
             >
-              @elisasnails
+              @elisa._.kiwi
             </a>
           </p>
-          <p><strong>Location:</strong> Manukau, Auckland, NZ</p>
         </div>
       </main>
 

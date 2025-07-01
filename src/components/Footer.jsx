@@ -4,8 +4,8 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-section brand">
-        <h3>Elisa's Nails</h3>
-        <p>Professional nail care, quality service, and stunning designs.</p>
+        <h3>Elisa's Website Services</h3>
+        <p>Professional website design and hosting.</p>
       </div>
 
       <div className="footer-section links">
@@ -27,12 +27,12 @@ const Footer = () => {
           target="_blank" 
           rel="noopener noreferrer"
         >
-          @elisasnails
+          @elisa._.kiwi
         </a>
       </div>
 
       <div className="footer-bottom">
-        <p>&copy; {new Date().getFullYear()} Elisa's Nails. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} Elisa's Website Services. All rights reserved.</p>
       </div>
     </footer>
   );
