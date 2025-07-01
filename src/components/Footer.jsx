@@ -14,21 +14,22 @@ const Footer = () => {
           <li><a href="/NailsWebsiteRepo/">Home</a></li>
           <li><a href="/NailsWebsiteRepo/bookings">Bookings</a></li>
           <li><a href="/NailsWebsiteRepo/pricing">Pricing</a></li>
-          <li><a href="/NailsWebsiteRepo/location">Location</a></li>
+          {/* <li><a href="/NailsWebsiteRepo/location">Location</a></li> */}
           <li><a href="/NailsWebsiteRepo/contact">Contact</a></li>
         </ul>
       </div>
 
       <div className="footer-section social">
         <h3>Connect</h3>
-        <p>Follow on Instagram:</p>
+        <p>Email me: elisasbusinessemail@gmail.com</p>
+        {/* <p>Follow on Instagram:</p>
         <a 
           href="https://instagram.com/elisasnails" 
           target="_blank" 
           rel="noopener noreferrer"
         >
           @elisa._.kiwi
-        </a>
+        </a> */}
       </div>
 
       <div className="footer-bottom">

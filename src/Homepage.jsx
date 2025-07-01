@@ -20,6 +20,7 @@ function Homepage() {
           <div className="bio">
             <h2 className="name">Hi, I&apos;m Elisa!</h2>
             <p className="description">
+            
             I'm a university student who is currently completing my bachelors degree, specializing in web development, user experience, and design systems. 
             Through my studies, I’ve taken a range of practical, industry-focused courses including Advanced Web Development, UX Design, Mobile Computing, Software Engineering, 
             and Design Systems. These have given me a strong foundation in building responsive, user-friendly websites with clean code and thoughtful design. 

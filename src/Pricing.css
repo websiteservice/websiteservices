@@ -94,7 +94,7 @@
     border-radius: 16px;
     box-shadow: 0 8px 20px rgba(240, 98, 146, 0.15);
     padding: 30px 25px;
-    width: 260px;
+    width: 450px;
     transition: all 0.3s ease;
   }
   
@@ -241,5 +241,31 @@
     color: #555;
     font-size: 1rem;
     line-height: 1.5;
+  }
+  
+  .desc-list {
+    list-style: none;       /* Remove default bullets */
+    padding-left: 0;
+    margin: 0 0 1rem 0;     /* space below the list */
+    text-align: left;       /* align left inside cards */
+  }
+  
+  .desc-list li {
+    position: relative;
+    padding-left: 1.2em;    /* space for custom bullet */
+    margin-bottom: 0.4em;
+    line-height: 1.4;
+    color: #555;            /* match your paragraph text color */
+    font-size: 1rem;
+  }
+  
+  .desc-list li::before {
+    content: "•";           /* bullet symbol */
+    position: absolute;
+    left: 0;
+    color: #f06292;         /* pinkish to match your headings */
+    font-weight: bold;
+    font-size: 1.2em;
+    line-height: 1;
   }
   

@@ -8,8 +8,8 @@ const Header = () =>{
             <Link to="/" className="navBtn">Home</Link>
             <Link to="/bookings" className="navBtn">Bookings</Link>
             <Link to="/pricing" className="navBtn">Pricing</Link>
-            <Link to="/location" className="navBtn">Location</Link>
-            <Link to="/contact" className="navBtn">Contact Me</Link>
+            {/* <Link to="/location" className="navBtn">Location</Link> */}
+            <Link to="/contact" className="navBtn">Contact</Link>
         </div>
     );
 }

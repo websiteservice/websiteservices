@@ -17,7 +17,7 @@ function Contact() {
 
         <div className="contact-details">
           <p><strong>Email:</strong> elisasbusinessemail@gmail.com</p>
-          <p><strong>Instagram:</strong>
+          {/* <p><strong>Instagram:</strong>
             <a 
               href="https://instagram.com/elisasnails" 
               target="_blank" 
@@ -26,7 +26,7 @@ function Contact() {
             >
               @elisa._.kiwi
             </a>
-          </p>
+          </p> */}
         </div>
       </main>
 
