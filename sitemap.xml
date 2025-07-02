@@ -8,11 +8,11 @@
     <priority>1.0</priority>
   </url>
 
-    <url>
+    <!-- <url>
     <loc>https://websiteservice.github.io/websiteservices/location</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
-  </url>
+  </url> -->
 
     <url>
     <loc>https://websiteservice.github.io/websiteservices/pricing</loc>
